@@ -1,0 +1,106 @@
+.brand-color-header{
+  color: red !important;
+  font-weight: bold;
+}
+.brand-color-header-bg{
+  background-color: #ffd208 !important;
+}
+.sidebar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.card-img{
+  display: block;
+  width: 180px;
+  height: 180px;
+  align-items: center;
+}
+.active {
+  font-size: 18px;
+  font-weight: bold !important;
+}
+.modal-title{
+  color: black !important;
+}
+.prix{
+  font-size: 18px;
+  font-weight: bold;
+}
+
+
+.pro-qty {
+	width: 140px;
+	height: 50px;
+	display: inline-block;
+	position: relative;
+	text-align: center;
+	background: #0e0d0d;
+	margin-bottom: 5px;
+}
+
+.pro-qty input {
+	height: 100%;
+	width: 100%;
+	font-size: 16px;
+	color: #080808;
+	width: 50px;
+	border: none;
+	background: #ffff;
+	text-align: center;
+}
+.pro-qty1 input {
+	height: 100%;
+	width: 100%;
+	font-size: 12px;
+	color: #080808;
+	width: 30px;
+	border: none;
+	background: #ffff;
+	text-align: center;
+}
+
+.pro-qty .qtybtn {
+	width: 35px;
+	font-size: 16px;
+	color: #ffff;
+	cursor: pointer;
+	display: inline-block;
+}
+.pro-qty1 .qtybtn {
+	width: 20px;
+	font-size: 12px;
+	color: #ffff;
+	cursor: pointer;
+	display: inline-block;
+}
+.btn-dark{
+  background: #0e0d0d !important;
+}
+
+.badge-panier{
+  position: relative;
+  padding-top: 4px;
+  height: 25px;
+  width: 25px;
+  top: -7px;
+  left: -15px;
+  font-size: 15px;
+}
+.link-decoration{
+  text-decoration: none;
+  color: #080808;
+}
+.link-decoration:hover{
+  text-decoration: none;
+  color: #080808;
+}
+.border-sombre{
+  border-color: darkgray;
+  background-color: rgb(241, 235, 235);
+}
+
+.color{
+	color: black !important;
+}
